@@ -2,7 +2,6 @@
 
 
 # Below is the contents of the yolov7 repository
-#
 ----------
 # Official YOLOv7
 
